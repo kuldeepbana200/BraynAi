@@ -1,6 +1,73 @@
 ﻿# Brayn AI
 
 This is a full-stack AI SaaS project built using MERN stack.
+# 🧠 Brayn AI - Full Stack SaaS Platform
+
+Brayn AI is a full-stack SaaS platform that combines powerful AI capabilities with a beautiful frontend and robust backend. It includes multiple AI tools, image manipulation, content generation, authentication, payment integration, and more.
+
+---
+
+## 🚀 Features
+
+### 🧠 AI Tools
+- ✨ **Article Generator** using Gemini API
+- 🎨 **Background Remover** using ClipDrop API
+- 📝 **Markdown Blog Editor** with live preview
+- 📷 **Image Upload & Hosting** via Cloudinary
+- 📥 **File Downloads** and API integrations
+
+### 🔐 Authentication
+- 🔑 Email/password login system
+- 📧 Email verification with SMTP
+- 👤 User sessions and JWT-based auth
+
+### 💳 Payments
+- 💰 Razorpay integration for subscription/payment
+- 📄 Payment history tracking
+
+### 📚 Content Management
+- 📄 Create and view blog articles in markdown
+- 🏷️ Article filtering by type
+- 📈 Show usage stats or dashboard items
+
+### 🌐 Deployment-Ready
+- ⚙️ Backend built in Express.js
+- 🖼️ Frontend in React with Tailwind CSS
+- 🌍 CORS, .env, and secure API handling
+
+---
+
+## 🧪 Tech Stack
+
+**Frontend:**
+- React
+- Tailwind CSS
+- Axios
+- React Markdown
+
+**Backend:**
+- Node.js
+- Express
+- MongoDB (Mongoose)
+- JWT
+- Nodemailer
+
+**APIs Used:**
+- Gemini AI API
+- ClipDrop API
+- Cloudinary API
+- Razorpay Payment Gateway
+- SMTP (Gmail)
+
+---
+
+## 🛠️ Installation & Setup
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/YOUR_USERNAME/BraynAi.git
+cd BraynAi
 
 ## Tech Stack
 
